@@ -1,10 +1,6 @@
 # HS_CryptoCoin_Wallet
 
-# First project using Flutter with Blockchain 
-# Project name: HSCoin Crypto wallet
-# Blockchain used: Etherium 
-# Concepts: Flutter layout,State management, Blockchain integration, Http api integration, Smart contracts
-
+First project using Flutter with Blockchain 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
